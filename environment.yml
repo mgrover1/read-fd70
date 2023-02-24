@@ -1,0 +1,13 @@
+name: read-fd70-dev
+channels:
+  - conda-forge
+  - pyviz
+dependencies:
+  - pandas
+  - xarray
+  - holoviews
+  - hvplot
+  - arm_pyart
+  - fsspec
+  - numpy
+  - jupyterlab
